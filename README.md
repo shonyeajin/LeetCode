@@ -1,2 +1,2 @@
 # LeetCode
-coding test with python
+daily coding test with python
